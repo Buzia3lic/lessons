@@ -1,48 +1,48 @@
-# Заголовок первого уровня обозначается # #  
-## Заголовок второго уровня обозначается ## ##
-### и так далее... ###
+# topic 1 level # #  
+## topic 2 level ## ##
+### \### and etc... ###
 ---
-## Цитаты обозанчаются знаком >
-> первый уровень
->> второй
->>> и так далее...
+## quotation is indicated by >
+> first level
+>> second
+>>> etc...
 ---
-## Списки
-Списки без номеров обозначаются *, + и -.
-* один *
-+ два +
-- три -
+## Lists
+Without numbers indicated by *, + and -
+* one 
++ two 
+- three 
 
-С номерами просто номер и точка  
+With number and dot  
 1. один
 2. два
 3. три 
 ---
-## Разделительные линии обозначаются --- или ***
+## Dividing line is indicated by --- or ***
 ***
-## Ссылки
+## Links
 
-[пример ссылки 1](http://example.com/ "необязательная подсказка")  
+[example 1](http://example.com/ "text 1")  
 
-[id]: http://example.com/ "необязательная подсказка 2"  
-[пример 2 через id][id]
-
----
-## Шрифты
-
-*Курсив обозначается * или _*   
-**Жирный обозанчается ** или __**  
-***Жирный курсив - *** или ___***  
-~~Для зачеркивания используем две тильды \~~~~  
-Для экранирования используется знак \
+[id]: http://example.com/ "text 2"  
+[example 2 with id][id]
 
 ---
+## Fonts
 
-## Картинки
-Строчный:  
-![Поворот налево](left.png "Лево")
+*Italics is indicated by * or _*   
+**Bold is indicated by ** or __**  
+***Bold italic is indicated by - *** or ___***  
+~~For strikethrough use \~~~~  
+To separate use \
 
-и справочный:  
-![Поворот направо][right]
+---
 
-[right]: right.png "Нельзя направо"
+## Images
+line:  
+![turn left](left.png "left")
+
+reference:  
+![turn right][right]
+
+[right]: right.png "right"
