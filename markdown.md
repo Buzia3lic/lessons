@@ -14,9 +14,9 @@ Without numbers indicated by *, + and -
 - three 
 
 With number and dot  
-1. один
-2. два
-3. три 
+1. one
+2. two
+3. three 
 ---
 ## Dividing line is indicated by --- or ***
 ***
