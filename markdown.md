@@ -8,12 +8,12 @@
 >>> etc...
 ---
 ## Lists
-Without numbers indicated by *, + and -
+Lists without numbers indicated by (*), (+) and (-) :
 * one 
 + two 
 - three 
 
-With number and dot  
+Lists with number indicated by (number) and (dot):  
 1. one
 2. two
 3. three 
