@@ -1,5 +1,7 @@
-# topic 1 level # #  
-## topic 2 level ## ##
+# Markdown instructions #
+
+# topic 1 level indicated by # #  
+## topic 2 level indicated by ## ##
 ### \### and etc... ###
 ---
 ## quotation is indicated by >
