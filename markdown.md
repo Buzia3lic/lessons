@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 # Markdown instructions #
 
 # topic 1 level indicated by # #  
 ## topic 2 level indicated by ## ##
 ### \### and etc... ###
+=======
+# Unnecessary name (for conflict) 
+
+# topic 1 level \#   
+## topic 2 level \## 
+### \### and etc...
+>>>>>>> lists
 ---
 ## Quotation is indicated by >
 > this is what the first level looks like
@@ -10,12 +18,12 @@
 >>> and etc...
 ---
 ## Lists
-Without numbers indicated by *, + and -
+Lists without numbers indicated by (*), (+) and (-) :
 * one 
 + two 
 - three 
 
-With number and dot  
+Lists with number indicated by (number) and (dot):  
 1. one
 2. two
 3. three 
