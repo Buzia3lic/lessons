@@ -2,10 +2,10 @@
 ## topic 2 level ## ##
 ### \### and etc... ###
 ---
-## quotation is indicated by >
-> first level
->> second
->>> etc...
+## Quotation is indicated by >
+> this is what the first level looks like
+>> this is second level
+>>> and etc...
 ---
 ## Lists
 Without numbers indicated by *, + and -
